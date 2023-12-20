@@ -1,1 +1,43 @@
+Microsoft Windows [Version 10.0.19045.3693]
+(c) Microsoft Corporation. All rights reserved.
 
+C:\Users\iPMAC\source\repos\Bypass\Bypass\bin\Debug\net6.0>cmd /k ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::1081:ba64:e79c:6966%10
+   IPv4 Address. . . . . . . . . . . : 192.168.0.156
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2824:d37b:a7c6:f089%17
+   IPv4 Address. . . . . . . . . . . : 192.168.88.137
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.88.1
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::8b2f:ac12:42f0:6b75%12
+   IPv4 Address. . . . . . . . . . . : 192.168.111.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::7555:a58:91e3:de0d%6
+   IPv4 Address. . . . . . . . . . . : 208.100.26.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+C:\Users\iPMAC\source\repos\Bypass\Bypass\bin\Debug\net6.0>
+C:\Users\iPMAC\source\repos\Bypass\Bypass\bin\Debug\net6.0>
+C:\Users\iPMAC\source\repos\Bypass\Bypass\bin\Debug\net6.0>
